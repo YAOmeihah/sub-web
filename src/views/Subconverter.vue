@@ -300,9 +300,9 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
               {
-                label: "ACL4SSR_Online_NoReject 无应用净化(Hrlni)",
+                label: "ACL4SSR_Online_NoReject 无广告拦截规则(与Github同步)",
                 value:
-                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
+                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
               },
               {
                 label: "ACL4SSR_Online_Mini 精简版(与Github同步)",
