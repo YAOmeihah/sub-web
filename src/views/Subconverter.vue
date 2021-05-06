@@ -294,20 +294,15 @@ export default {
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
-	      {
-                label: "ACL4SSR_Online Hrlni版",
-                value:
-                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
-              },
               {
                 label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
               {
-                label: "ACL4SSR_Online_NoReject 无广告拦截规则(与Github同步)",
+                label: "ACL4SSR_Online_NoReject 无应用净化(Hrlni)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
+                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
                 label: "ACL4SSR_Online_Mini 精简版(与Github同步)",
