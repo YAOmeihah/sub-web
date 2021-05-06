@@ -294,6 +294,11 @@ export default {
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
+	      {
+                label: "ACL4SSR_Online Hrlni版",
+                value:
+                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
+              },
               {
                 label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
                 value:
