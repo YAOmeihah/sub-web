@@ -284,11 +284,6 @@ export default {
           {
             label: "ACL4SSR",
             options: [
-	      {
-                label: "ACL4SSR_Online Hrlni版 全分组 没有自动测速 (没有应用净化)",
-                value:
-                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
-              },
               {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
