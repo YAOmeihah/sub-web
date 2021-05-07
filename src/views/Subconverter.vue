@@ -287,7 +287,7 @@ export default {
               {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://hrlni.cn/ACL4SSR/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
